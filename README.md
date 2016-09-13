@@ -10,6 +10,7 @@ A file called tweets.txt contains the tweets and a file called keywords.txt cont
 ## Getting Started
 
 Run via terminal by using ```python3 ./Timezone_Analysis.py``` after changing to the directory.
+
 NOTE: happy_histogram.py, graphics.py, tweets.txt and keywords.txt must be in the same folder as this file for it to run properly.
 
 ## Built With
