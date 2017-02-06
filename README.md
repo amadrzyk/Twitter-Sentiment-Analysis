@@ -15,8 +15,4 @@ NOTE: happy_histogram.py, graphics.py, tweets.txt and keywords.txt must be in th
 
 ## Built With
 
-* Sublime Text 2
-
-## Acknowledgments
-
-* Western University's CS1026A Course Staff 
+* Python 2.7
