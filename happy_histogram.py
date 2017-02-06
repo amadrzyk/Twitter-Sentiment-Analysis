@@ -1,5 +1,3 @@
-__author__ = 'Bauer'
-
 from graphics import GraphicsWindow
 
 def drawHappyFace(canvas,x,y):
